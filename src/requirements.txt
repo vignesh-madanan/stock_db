@@ -5,7 +5,7 @@ chardet==3.0.4
 click==7.1.2
 dateutils==0.6.8
 idna==2.9
-lxml==4.5.1
+lxml==4.9.1
 more-itertools==8.3.0
 multitasking==0.0.9
 nsepy==0.8
